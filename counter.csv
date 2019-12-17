@@ -1,0 +1,527 @@
+current,next,count
+Order imported,Order checked,86261
+Order checked,Address correction,3407
+Address correction,Order creation failed (SYS-2),482
+Order creation failed (SYS-2),Device hand-out,2560
+Device hand-out,Delivery approved,80135
+Delivery approved,In delivery,91752
+In delivery,Documents complete (ERP),72164
+Documents complete (ERP),Ready to deliver,66022
+Ready to deliver,Delivered,103730
+Delivered,Activated,75278
+Activated,Printed (ERP),79979
+Printed (ERP),Customer ID transmitted,69106
+Customer ID transmitted,Invoiced,78899
+Invoiced,Order imported,81
+Order imported,Suspicious (Fraud),9211
+Suspicious (Fraud),Order checked,7904
+Order checked,Device hand-out,58487
+Device hand-out,Ready for payment processing,1147
+Ready for payment processing,Documents complete (ERP),711
+Invoiced,Return delivery initiated,13231
+Return delivery initiated,Processing return delivery,11781
+Processing return delivery,Suspicious (Fraud),160
+Order checked,Order creation failed (SYS-2),4311
+Processing return delivery,Order imported,5
+Documents complete (ERP),Goods in arrears,6838
+Goods in arrears,Ready to deliver,14050
+Invoiced,Export from online shop,71044
+Export from online shop,Order imported,103372
+Export from online shop,Order checked,1573
+Order checked,Manual processing,6236
+Manual processing,Ready to deliver,3972
+Delivered,Invoiced,19294
+Processing return delivery,Export from online shop,6604
+Order checked,Personal offer,3828
+Personal offer,Device hand-out,874
+Manual processing,Goods in arrears,516
+Order imported,Order incorrect,1116
+Order incorrect,Order checked,1184
+Order imported,Personal offer,211
+Personal offer,Order checked,242
+Order checked,Rejected (SYS-2),61
+Rejected (SYS-2),Device hand-out,183
+Address correction,Device hand-out,1505
+Delivered,IMEI correction,5207
+IMEI correction,Activated,4247
+Goods in arrears,Cancelled (SYS-2),130
+Cancelled (SYS-2),Suspicious (Fraud),7
+Suspicious (Fraud),Ready to deliver,2
+Personal offer,Suspicious (Fraud),64
+Suspicious (Fraud),Device hand-out,102
+IMEI correction,Invoiced,231
+Order checked,Ready for payment processing,10270
+Ready for payment processing,Ready to deliver,5988
+Order checked,Delivery approved,10427
+In delivery,Ready to deliver,13102
+Return delivery initiated,Export from online shop,689
+Invoiced,Order checked,7707
+Printed (ERP),Customer ID error,10312
+Customer ID error,Invoiced,4243
+Order imported,Address correction,6198
+Address correction,Order checked,5998
+Export from online shop,Address correction,90
+In delivery,Goods in arrears,6070
+Invoiced,Suspicious (Fraud),1015
+Customer ID error,Customer ID transmitted,9961
+Order checked,Documents complete (ERP),6
+Cancelled (SYS-2),Device hand-out,60
+Cancelled (SYS-2),Ready to deliver,211
+In delivery,Delivery method changed (SYS-2),120
+Delivery method changed (SYS-2),Documents complete (ERP),116
+Ready for payment processing,Goods in arrears,1239
+Address correction,Order incorrect,88
+Order checked,Delivery method changed (SYS-2),674
+Delivery method changed (SYS-2),Device hand-out,1000
+Cancelled (SYS-2),Order creation failed (SYS-2),15
+Order creation failed (SYS-2),Ready to deliver,15
+Invoiced,Return delivery approved,6258
+Return delivery approved,Export from online shop,3731
+Invoiced,Order creation failed (SYS-2),127
+Order creation failed (SYS-2),Order checked,794
+Address correction,Personal offer,239
+Export from online shop,Suspicious (Fraud),94
+Export from online shop,Order creation failed (SYS-2),10
+Order creation failed (SYS-2),Further inquiry,22
+Further inquiry,Inquiry answered,137
+Inquiry answered,Device hand-out,109
+Order creation failed (SYS-2),Suspicious (Fraud),93
+Processing return delivery,Order checked,917
+Return delivery approved,Order checked,433
+Return delivery approved,Suspicious (Fraud),37
+Order imported,Order creation failed (SYS-2),312
+Invoiced,Order incorrect,13
+Customer ID error,Order checked,20
+Address correction,Goods in arrears,1
+Cancelled (SYS-2),Order checked,32
+Return delivery approved,Order imported,32
+Order creation failed (SYS-2),Delivery method changed (SYS-2),32
+Return delivery initiated,Order checked,97
+Suspicious (Fraud),Personal offer,68
+Personal offer,Ready to deliver,2
+Processing return delivery,Address correction,9
+Order incorrect,Order creation failed (SYS-2),4
+Return delivery initiated,Suspicious (Fraud),19
+Ready for payment processing,Delivery method changed (SYS-2),8
+Delivery approved,Delivery method changed (SYS-2),57
+Delivery method changed (SYS-2),In delivery,50
+Processing return delivery,Order creation failed (SYS-2),8
+Personal offer,Order rejecected,1
+Order rejecected,Device hand-out,20
+Customer ID transmitted,Suspicious (Fraud),3
+Invoiced,Personal offer,8
+Order creation failed (SYS-2),Personal offer,226
+Invoiced,Address correction,71
+Address correction,Suspicious (Fraud),308
+Order checked,In delivery,6
+Delivery approved,Ready to deliver,88
+Suspicious (Fraud),Address correction,6
+Documents complete (ERP),Order creation failed (ERP),158
+Order creation failed (ERP),Cancelled (SYS-2),298
+Invoiced,Device hand-out,2
+Order checked,Ready to deliver,8
+Return delivery approved,Order creation failed (SYS-2),11
+Documents complete (ERP),Cancellation requested,16
+Cancellation requested,Ready to deliver,5
+Delivery approved,Documents complete (ERP),12
+Cancelled (SYS-2),In delivery,15
+Order checked,Order rejecected,8162
+Order imported,Device hand-out,2
+Delivery approved,Cancelled (SYS-2),2
+Order checked,Goods in arrears,2
+Export from online shop,Order incorrect,17
+Personal offer,Rejected (SYS-2),59
+Delivered,Export from online shop,75
+Suspicious (Fraud),Rejected (SYS-2),6
+Rejected (SYS-2),Order checked,32
+Order checked,Further inquiry,303
+Inquiry answered,Goods in arrears,1
+Order imported,Goods in arrears,2
+Suspicious (Fraud),Order incorrect,18
+Suspicious (Fraud),Order creation failed (SYS-2),46
+Personal offer,Delivery method changed (SYS-2),6
+Rejected (SYS-2),Address correction,1
+Delivered,Order checked,18
+Order incorrect,Suspicious (Fraud),22
+Customer ID error,Export from online shop,91
+Suspicious (Fraud),In delivery,1
+Order imported,Order creation failed (ERP),4
+Return delivery approved,Address correction,4
+Order creation failed (SYS-2),Address correction,18
+Return delivery approved,Documents complete (ERP),1
+Documents complete (ERP),Cancelled (SYS-2),3
+Customer ID error,Suspicious (Fraud),4
+Cancelled (SYS-2),Goods in arrears,31
+Customer ID error,Return delivery approved,32
+Manual processing,Order creation failed (ERP),11
+Order imported,In delivery,1
+Personal offer,Order creation failed (SYS-2),36
+Address correction,Delivery method changed (SYS-2),7
+Invoiced,Documents complete (ERP),1
+Order checked,Order creation failed (ERP),2
+Delivery method changed (SYS-2),Ready to deliver,9
+Order checked,Cancelled (SYS-2),3
+Order imported,Manual processing,1
+Manual processing,Order checked,510
+Rejected (SYS-2),Suspicious (Fraud),5
+Cancelled (SYS-2),Address correction,2
+Address correction,Ready to deliver,1
+Order creation failed (SYS-2),Order rejecected,520
+Order rejecected,Suspicious (Fraud),3
+Rejected (SYS-2),Order creation failed (SYS-2),26
+Export from online shop,Rejected (SYS-2),1
+Order creation failed (SYS-2),Rejected (SYS-2),8
+Delivered,Customer ID error,4064
+Order creation failed (SYS-2),Order creation failed (ERP),7
+Invoiced,Manual identification,5
+Manual identification,Device hand-out,5
+Order checked,Suspicious (Fraud),1
+Order imported,Rejected (SYS-2),4
+Customer ID transmitted,Export from online shop,128
+Personal offer,Address correction,10
+In delivery,Order creation failed (ERP),72
+Cancelled (SYS-2),Documents complete (ERP),18
+Suspicious (Fraud),Further inquiry,2
+Order creation failed (SYS-2),Documents complete (ERP),4
+Delivery approved,Order creation failed (ERP),2
+Order rejecected,Order creation failed (SYS-2),2
+Inquiry answered,Rejected (SYS-2),2
+Address correction,Rejected (SYS-2),2
+Processing return delivery,Order incorrect,2
+Order creation failed (SYS-2),In delivery,4
+Address correction,Ready for payment processing,6
+Delivered,Rejected (SYS-2),1
+Rejected (SYS-2),Activated,1
+Cancelled (SYS-2),Personal offer,4
+Ready to deliver,Not delivered (ERP),305
+Not delivered (ERP),Cancelled (SYS-2),300
+Cancelled (SYS-2),Cancelled (SYS-1),418
+Cancelled (SYS-1),Suspicious (Fraud),1
+Order rejecected,Personal offer,1
+Invoiced,Delivery method changed (SYS-2),1
+Delivery method changed (SYS-2),Cancelled (SYS-2),1
+Cancelled (SYS-2),Refund,177
+Refund,Ready to deliver,48
+Inquiry answered,Personal offer,16
+Personal offer,Order incorrect,1
+Order incorrect,Device hand-out,1
+Customer ID transmitted,Order checked,20
+Return delivery initiated,Address correction,2
+Further inquiry,Device hand-out,5
+Processing return delivery,Device hand-out,1
+Export from online shop,Ready for payment processing,1
+Ready for payment processing,Order checked,698
+Invoiced,Rejected (SYS-2),4
+Manual identification,Order creation failed (SYS-2),4
+Order incorrect,Address correction,5
+Order checked,Comment,15326
+Comment,Device hand-out,16224
+Order imported,Order blacklisted,202
+Order blacklisted,Export from online shop,3616
+Order rejecected,Export from online shop,7871
+Suspicious (Fraud),Order blacklisted,3882
+Order checked,Order checked,8054
+Processing return delivery,Return delivered (contract cancellation),3770
+Return delivered (contract cancellation),Export from online shop,5624
+Ready for payment processing,Delivery approved,2464
+Personal offer,Personal offer rejected by customer,847
+Personal offer rejected by customer,Export from online shop,692
+Order creation failed (SYS-2),Comment,882
+Personal offer,Personal offer rejected (no reaction),1804
+Personal offer rejected (no reaction),Export from online shop,1577
+Suspicious (Fraud),Suspicious (Fraud),384
+Address correction,Order rejecected,496
+In delivery,Comment,16
+Comment,Documents complete (ERP),3
+Invoiced,Order captured,4034
+Order captured,Suspicious (Fraud),1165
+Order blacklisted,Order captured,455
+Order rejecected,Order captured,1271
+Order captured,Order checked,6105
+Return delivered (contract cancellation),Order captured,789
+Delivered,Comment,44
+Comment,Activated,52
+Personal offer,Personal offer accepted,594
+Personal offer accepted,Comment,258
+Comment,Rejected (SYS-2),692
+Rejected (SYS-2),Cancellation requested,578
+Cancellation requested,Cancelled (SYS-1),1231
+Cancelled (SYS-1),Export from online shop,1540
+Return delivery initiated,Return delivered (contract cancellation),591
+Delivery approved,Order checked,604
+Order creation failed (SYS-2),Cancellation requested,263
+Manual processing,Invoiced,869
+Personal offer rejected by customer,Order captured,125
+Order checked,Cancellation requested,157
+Cancellation requested,Cancelled (SYS-2),406
+Cancelled (SYS-1),Order captured,264
+Goods in arrears,Cancelled,231
+Cancelled,Order captured,16
+Delivery approved,Activated,394
+Printed (ERP),Order captured,100
+Printed (ERP),Export from online shop,298
+Return delivery approved,Return delivered (contract cancellation),2064
+Personal offer accepted,Order checked,125
+Address correction,Comment,737
+Ready to deliver,Ready to deliver,546
+In delivery,Order checked,253
+Delivery approved,Goods in arrears,179
+Processing return delivery,Return delivered (Device only),206
+Return delivered (Device only),Export from online shop,187
+Order incorrect,Order incorrect,125
+Order blacklisted,Order imported,6
+Goods in arrears,Comment,348
+Comment,Cancellation requested,48
+Order captured,Order incorrect,22
+Order blacklisted,Comment,50
+Comment,Export from online shop,331
+Comment,Ready to deliver,320
+Cancelled,Export from online shop,223
+Personal offer rejected (no reaction),Order captured,235
+Return delivery initiated,Return delivered (contract not cancelled),67
+Return delivered (contract not cancelled),Export from online shop,174
+Comment,Delivery method changed (SYS-2),280
+Order captured,Comment,35
+Comment,Suspicious (Fraud),15
+Order rejecected,Comment,81
+Suspicious (Fraud),Cancellation requested,123
+Ready for payment processing,Comment,127
+Comment,Delivery approved,97
+IMEI correction,Comment,72
+Comment,Invoiced,60
+Ready to deliver,Comment,28
+Comment,Delivered,27
+Return delivery initiated,Return delivered (Device only),34
+Return delivered (Device only),Comment,31
+Comment,Order captured,60
+Ready for payment processing,Cancelled (SYS-1),112
+Invoiced,Comment,145
+Further inquiry,Cancellation requested,125
+Personal offer accepted,Device hand-out,141
+Suspicious (Fraud),Comment,93
+Comment,Order checked,86
+Order captured,Order creation failed (SYS-2),18
+Return delivered (contract not cancelled),Order captured,27
+Ready to deliver,Order captured,1
+Order captured,Address correction,68
+Order incorrect,Order blacklisted,1
+Comment,Return delivery initiated,49
+Printed (ERP),Invoiced,48
+Inquiry answered,Inquiry answered,1
+Comment,Order rejecected,31
+Comment,Cancelled (SYS-1),41
+Comment,Order creation failed (SYS-2),10
+Cancelled (SYS-1),Cancelled (SYS-2),19
+Cancelled (SYS-2),Export from online shop,20
+Rejected (SYS-2),Rejected (SYS-2),1
+Customer ID error,Comment,16
+Manual processing,Customer follow-up,306
+Customer follow-up,Ready to deliver,225
+Processing return delivery,Return delivered (contract not cancelled),76
+Personal offer,Comment,59
+Comment,Personal offer rejected by customer,18
+Personal offer accepted,Suspicious (Fraud),38
+Customer ID transmitted,Return delivery approved,29
+Return delivered (contract cancellation),Order imported,13
+Rejected (SYS-2),Order rejecected,11
+Ready for payment processing,Cancellation requested,27
+Refund,Cancelled (SYS-1),25
+Cancelled (SYS-1),Comment,50
+Inquiry answered,Cancellation requested,5
+Delivery method changed (SYS-2),Activated,7
+Delivered,Order rejecected,2
+Order rejecected,Invoiced,1
+Address correction,Further inquiry,10
+Return delivered (Device only),Order captured,23
+Comment,Cancelled,19
+Delivered,Personal offer,2
+Manual processing,Cancelled (SYS-1),39
+Order captured,Order blacklisted,27
+Personal offer rejected by customer,Comment,49
+Inquiry answered,Comment,16
+Personal offer,Cancellation requested,20
+Order incorrect,Cancellation requested,51
+Order incorrect,Comment,7
+Address correction,Delivery approved,6
+Return delivery approved,Return delivered (contract not cancelled),54
+Order rejecected,Order imported,6
+Customer follow-up,Goods in arrears,21
+Order creation failed (SYS-2),Order creation failed (SYS-2),42
+Processing return delivery,Comment,13
+Comment,Return delivered (contract cancellation),7
+IMEI correction,IMEI correction,91
+Customer follow-up,Cancellation requested,30
+In delivery,Cancellation requested,26
+Cancelled (SYS-1),Order imported,14
+Customer follow-up,Cancelled (SYS-1),25
+Order imported,Cancellation requested,7
+Goods in arrears,Cancellation requested,134
+Comment,IMEI correction,3
+Cancellation requested,Not delivered (ERP),1
+Cancelled (SYS-1),Invoiced,2
+Comment,Personal offer accepted,13
+Personal offer accepted,Personal offer rejected by customer,2
+Cancelled,Order imported,5
+Further inquiry,Comment,33
+Comment,Inquiry answered,21
+Further inquiry,Cancelled (SYS-2),40
+Cancelled (SYS-2),Cancellation requested,41
+Cancellation requested,Comment,46
+Comment,Cancelled (SYS-2),46
+Return delivery initiated,Order captured,2
+Customer follow-up,Invoiced,10
+Cancelled (SYS-2),Cancelled (SYS-2),1
+Cancelled (SYS-2),Order captured,5
+Order captured,Manual identification,8
+Manual identification,Comment,5
+Comment,Order blacklisted,13
+Printed (ERP),Comment,34
+Customer ID transmitted,Comment,10
+Order creation failed (SYS-2),Export from online shop,3
+Address correction,Cancellation requested,8
+In delivery,Export from online shop,4
+Manual processing,Cancellation requested,12
+Return delivery approved,Order captured,9
+Cancellation requested,Cancelled,1
+Cancelled,Cancelled (SYS-2),1
+Comment,Return delivered (contract not cancelled),4
+Inquiry answered,Order rejecected,5
+Delivered,Delivery approved,2
+Rejected (SYS-2),Further inquiry,1
+Personal offer rejected (no reaction),Comment,19
+Order imported,Comment,1
+Comment,Personal offer rejected (no reaction),26
+Delivery approved,Comment,6
+Personal offer accepted,Personal offer rejected (no reaction),2
+Manual identification,Manual identification,1
+Order creation failed (ERP),Cancellation requested,4
+Address correction,Order blacklisted,2
+Cancellation requested,Export from online shop,10
+Rejected (SYS-2),Personal offer,3
+Refund,Cancellation requested,1
+Suspicious (Fraud),Export from online shop,7
+Suspicious (Fraud),Order rejecected,16
+Comment,Further inquiry,1
+Personal offer accepted,Order creation failed (SYS-2),27
+Cancelled,Comment,6
+Customer ID error,Customer ID error,114
+Order rejecected,Cancellation requested,3
+Order captured,Personal offer,4
+Comment,Customer ID transmitted,36
+Personal offer accepted,Rejected (SYS-2),2
+Rejected (SYS-2),Comment,1
+Manual processing,Follow-up,1
+Follow-up,Ready to deliver,1
+Personal offer accepted,Cancellation requested,3
+Customer ID transmitted,Order captured,14
+Delivered,Device hand-out,1
+Cancelled (SYS-2),Order rejecected,14
+Comment,In delivery,5
+Return delivery initiated,Return delivery initiated,1
+Comment,Order imported,1
+Return delivered (contract cancellation),Comment,6
+Delivery approved,IMEI correction,37
+Personal offer accepted,Address correction,5
+Ready for payment processing,Ready for payment processing,1
+Refund,Comment,1
+Comment,Customer ID error,6
+Cancellation requested,Refund,1
+Refund,Cancelled (SYS-2),9
+Cancelled (SYS-2),Comment,5
+Goods in arrears,Refund,2
+Delivery method changed (SYS-2),Delivery approved,4
+Refund,Suspicious (Fraud),1
+Suspicious (Fraud),Documents complete (ERP),1
+Comment,Goods in arrears,3
+Delivered,Order creation failed (SYS-2),1
+Order creation failed (SYS-2),Activated,1
+Refund,Goods in arrears,21
+Order creation failed (ERP),Refund,3
+Refund,Delivery method changed (SYS-2),1
+Comment,Personal offer,9
+Order rejecected,Further inquiry,1
+Inquiry answered,Export from online shop,1
+Refund,Documents complete (ERP),1
+Comment,Return delivery approved,2
+Personal offer rejected by customer,Cancellation requested,1
+Customer ID error,Order captured,13
+Personal offer rejected (no reaction),Cancellation requested,1
+Order checked,Export from online shop,1
+Order captured,Cancellation requested,15
+Personal offer accepted,Order rejecected,4
+Inquiry answered,Cancelled (SYS-2),3
+Rejected (SYS-2),Delivery method changed (SYS-2),1
+Delivery approved,Export from online shop,2
+Invoiced,Processing return delivery,2
+Processing return delivery,Return delivery initiated,2
+Goods in arrears,Export from online shop,3
+Comment,Return delivered (Device only),1
+Manual processing,Export from online shop,1
+IMEI correction,Export from online shop,604
+Rejected (SYS-2),Order incorrect,1
+IMEI correction,Return delivery approved,14
+In delivery,Cancelled (SYS-2),2
+Order creation failed (ERP),Documents complete (ERP),1
+Order creation failed (SYS-2),Manual identification,1
+Return delivery approved,Comment,2
+Processing return delivery,Order captured,10
+In delivery,Order captured,5
+Order creation failed (ERP),Export from online shop,2
+Cancelled (SYS-2),Cancelled,3
+Invoiced,Invoiced,8
+Return delivery approved,Invoiced,39
+Cancelled (SYS-2),Customer follow-up,5
+IMEI correction,Order captured,7
+Order creation failed (ERP),Ready to deliver,1
+Cancelled (SYS-2),Ready for payment processing,2
+Printed (ERP),Return delivery approved,81
+Activated,Invoiced,1
+Address correction,Export from online shop,1
+Cancelled (SYS-2),Rejected (SYS-2),2
+Documents complete (ERP),Comment,2
+Refund,Delivered,58
+Order creation failed (ERP),Comment,1
+Order incorrect,Export from online shop,1
+In delivery,Delivery approved,1
+Documents complete (ERP),Order captured,1
+Cancelled,Cancellation requested,1
+Order incorrect,In delivery,1
+Cancelled (SYS-1),Cancellation requested,1
+Delivery approved,Order captured,1
+Further inquiry,Export from online shop,3
+Comment,Address correction,1
+Personal offer,Export from online shop,1
+Delivered,Suspicious (Fraud),3
+Customer ID error,Order creation failed (SYS-2),2
+Order checked,Inquiry answered,1
+Inquiry answered,Further inquiry,1
+Export from online shop,Personal offer,2
+Refund,Order checked,1
+Order imported,Cancelled (SYS-2),1
+Cancelled (SYS-2),Delivered,159
+Order incorrect,Order creation failed (ERP),1
+IMEI correction,Order creation failed (SYS-2),1
+IMEI correction,Order checked,62
+Ready for payment processing,Order creation failed (ERP),52
+Refund,Invoiced,18
+Delivered,Return delivery approved,1
+Order imported,Ready for payment processing,1
+Order imported,Documents complete (ERP),1
+Goods in arrears,Order checked,1
+IMEI correction,Suspicious (Fraud),8
+Goods in arrears,Delivered,15
+Cancelled (SYS-2),Further inquiry,2
+Not delivered (ERP),Delivered,2
+Not delivered (ERP),Refund,3
+Cancelled (SYS-2),Invoiced,16
+Order rejecected,Order checked,2
+Goods in arrears,Invoiced,10
+Personal offer,Delivered,2
+Ready for payment processing,Refund,1
+Refund,Order creation failed (ERP),1
+Ready to deliver,Invoiced,9
+Cancelled,Ready to deliver,2
+Refund,Order incorrect,1
+Order incorrect,Ready to deliver,1
+IMEI correction,Personal offer,1
+Not delivered (ERP),Export from online shop,1
